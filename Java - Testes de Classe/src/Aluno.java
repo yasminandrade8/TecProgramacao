@@ -2,7 +2,7 @@ public class Aluno {
     private String nome;
     private double nota1, nota2, nota3, m1, m2, m3;
 
-    public void Notas(float n1, float n2, float n3) {
+    public void Notas(double n1, double n2, double n3) {
         nota1 = n1;
         nota2 = n2;
         nota3 = n3;
