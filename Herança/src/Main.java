@@ -1,6 +1,6 @@
 // Nome: Yasmin Rodrigues de Andrade
 //Ra: 2171392521035
-//Objetivo: Crie um sistema simples de gerenciamento de veículos que 
+//Objetivo: Criar um sistema simples de gerenciamento de veículos que 
 //          demonstre o uso de herança em Java
 
 public class Main {
